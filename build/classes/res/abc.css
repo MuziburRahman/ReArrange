@@ -1,0 +1,7 @@
+.root{
+    -fx-background-color: #383838;
+}
+.progress-bar>.bar{
+    -fx-background-insets: 1 2 1 1;
+    -fx-padding: 0.20em;
+}
